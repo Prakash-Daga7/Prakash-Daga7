@@ -45,20 +45,31 @@ ___
 ___
 
 # 📈 My Github Status
-<div style="display:flex;justify-content:center;flex-direction:row;align-items:flex-start"> 
+<div style="display:flex;justify-content:center;align-items:flex-start"> 
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=Prakash-Daga7&&show_icons=true&count_private=true&theme=dark&border_radius=15%&hide_border=true" />
-       <img align="center" src="https://streak-stats.demolab.com/?user=Prakash-Daga7&theme=dark&border_radius=5%&hide_border=true" alt="Prakash Daga" width="450px" /> 
+   <!--    <img align="center" src="https://streak-stats.demolab.com/?user=Prakash-Daga7&theme=dark&border_radius=5%&hide_border=true" alt="Prakash Daga" width="450px" /> -->
     </div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakash-Daga7&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
-        alt="Prakash-Daga" />
+        alt="Prakash-Daga7" />
     </div>
-    <!-- <img src"https://github-readme-stats.vercel.app/api?username=Prakash-Daga7&count_private=true&theme=dark&border_radius=15%&hide_border=true" /> &nbsp;&nbsp;&nbsp; -->
-<!--
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prakash-daga&theme=dark&hide_border=true&border_radius=70" alt="Prakash-Daga_streak" />
-
-    -->
-</div>
+ </div>
 <br/>
+
+
+# Github Trophies
+<!-- <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Prakash-Daga7&theme=dark&border_radius=15%&hide_border=true" alt="Prakash-Daga7" />
+    </a>
+</p> -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Prakash-Daga7&theme=onedark&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
