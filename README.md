@@ -51,8 +51,7 @@ ___
    <!--    <img align="center" src="https://streak-stats.demolab.com/?user=Prakash-Daga7&theme=dark&border_radius=5%&hide_border=true" alt="Prakash Daga" width="450px" /> -->
     </div>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakash-Daga7&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
-        alt="Prakash-Daga7" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-daga7&show_icons=true&locale=en&layout=compact" alt="prakash-daga7" />
     </div>
  </div>
 <br/>
