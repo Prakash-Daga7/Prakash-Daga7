@@ -40,7 +40,9 @@ ___
       <img src="./socials/email.svg"
             alt="gmail" width="35px" />
     </a>
-    <a href="https://instagram.com/prakashdaga17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakashdaga17" height="30" width="40" /></a>
+    <a href="https://instagram.com/prakashdaga17"  target="_blank" rel="noreferrer"> 
+        <img src="./socials/social.png" alt="Instagram handle" width="35px" />
+    </a>
 
 </p>
 <br/>
