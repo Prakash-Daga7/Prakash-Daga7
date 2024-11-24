@@ -39,7 +39,7 @@ ___
     <a href="mailto:prakashdaga94@gmail.com" target="_blank" rel="noreferrer"> 
       <img src="./socials/email.svg"
             alt="gmail" width="35px" />
-    </a>
+    </a> &nbsp;
     <a href="https://instagram.com/prakashdaga17"  target="_blank" rel="noreferrer"> 
         <img src="./socials/social.png" alt="Instagram handle" width="35px" />
     </a>
