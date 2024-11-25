@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-___
+
 
 # Let's Connect
 <p>    
@@ -41,8 +41,6 @@ ___
     </a>
 </p>
 <br/>
-
-___
 
 # 📈 My Github Status
 <div style="display:flex;justify-content:center;align-items:flex-start"> 
