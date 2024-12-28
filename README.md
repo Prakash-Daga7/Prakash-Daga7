@@ -46,12 +46,11 @@
 # 📈 My Github Status
 <div style="display:flex;justify-content:center;align-items:flex-start"> 
     <div>
-     <img src="https://github-readme-stats.vercel.app/api?username=Prakash-Daga7&show_icons=true&&count_private=true&theme=dark&border_radius=15%&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-daga7&show_icons=true&locale=en&layout=compact" alt="prakash-daga7" />
    <!--    <img align="center" src="https://streak-stats.demolab.com/?user=Prakash-Daga7&theme=dark&border_radius=5%&hide_border=true" alt="Prakash Daga" width="450px" /> -->
     </div>
     <div>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakash-Daga7&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
-        alt="Prakash-Daga7" />
+      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-daga7&show_icons=true&locale=en" alt="prakash-daga7" />
     </div>
  </div>
 <br/>
