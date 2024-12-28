@@ -60,13 +60,6 @@
 
 
 
-# Github Trophies
-<!-- <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Prakash-Daga7&theme=dark&border_radius=15%&hide_border=true" alt="Prakash-Daga7" />
-    </a>
-</p> -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Prakash-Daga7&theme=onedark&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 <picture>
